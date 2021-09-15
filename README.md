@@ -14,6 +14,7 @@
 3. L03_Cluster Analysis
 4. L04_Document_Classification
 5. L05_Semantic Network Analysis
+6. L06_Topic Modeling
 
 출처 : [이수안컴퓨터연구소](https://www.youtube.com/playlist?list=PL7ZVZgsnLwEEoHQAElEPg7l7T6nt25I3N)
 
