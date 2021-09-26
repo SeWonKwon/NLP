@@ -25,7 +25,7 @@
 14. L14_
 15. L15_
 16. L16_
-17. L17_
+
 
 <sub>출처 : [이수안컴퓨터연구소](https://www.youtube.com/playlist?list=PL7ZVZgsnLwEEoHQAElEPg7l7T6nt25I3N)</sub>
 
